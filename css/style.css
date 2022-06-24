@@ -1,0 +1,29 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://images.squarespace-cdn.com/content/v1/5bcf9cca94d71ad7d0756243/1540360540009-53YPE5KOWJPHH6D9LHB5/ke17ZwdGBToddI8pDm48kPf7rApPYRE4Z1xJVVDqDnsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dgQYL9OH1egGSV1u60MAFcl2cxSdUaYVaqDfoxgGDzCeG6v6ULRah83RgHXAWD5lbQ/inside-ice-castles.jpg?format=2500w")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.wow {
+    visibility: hidden;
+    
+  }
+
+  body{
+    margin-top:20px;
+    background:#f8f8f8
+}
+.avatar--md .avatar__content img{
+    width:40px;
+    height:40px;
+}
